@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz"
 
-#EXTINF:0 tvg-name="Teleantillas"  tvg-id="teleantillas" tvg-logo="http://ns3083002.ip-145-239-6.eu/Logos/Teleantillas.png" , BackDoor
-rtsp://192.168.31.71:554/12
 
 #EXTINF:0 tvg-name="Teleantillas"  tvg-id="teleantillas" tvg-logo="http://ns3083002.ip-145-239-6.eu/Logos/Teleantillas.png" , Teleantillas
 http://51.81.106.157:8084/hls/tantillas.m3u8
